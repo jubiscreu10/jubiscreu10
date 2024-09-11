@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi There 👍
 
-<!--
-**jubiscreu10/jubiscreu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Boas vindas ao meu perfil
 
-Here are some ideas to get you started:
+Meu nome é Misrrael 😎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou estudando no alura
+
+Estou me desenvolvendo na linguagem JavaScrip
+
+Ultilizo esse espaço para minha organização e compartilhamento
+
+(()
